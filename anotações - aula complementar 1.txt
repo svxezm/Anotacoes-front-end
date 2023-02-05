@@ -35,3 +35,9 @@ Exemplo mais completo:
 
 A tag <title> especifica o título da página o msemo que é exibido na barra de título ou na aba de navegador. Esta informação é obrigatóia e não deve sre repetida no documento. Informações mais detalhadas em h3schools.com/tags/tag_title.asp .
 A tag <p> define um parágrafo. Mais exemplos de uso são encontrados em w3schools.com/tags/tag_p.asp .
+
+extra:
+&lt; insere <
+&gt; insere >
+&le; insere ≤
+&ge; insere ≥
