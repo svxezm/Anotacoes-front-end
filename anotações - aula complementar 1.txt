@@ -29,7 +29,7 @@ Exemplo mais completo:
         <title>Olá, mundo!</head>
     </head>
     <body>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>Olá mundo!</p>
     </body>
 </html>
 
