@@ -3,3 +3,35 @@ Linguagem de Programação é um conjunto de regras sintáticas e semânticas us
 
 "A linguagem de marcação é usada para a apresentação de informações, linguagem de programação é utilizada para o fornecimento de instruções de execuções de tarefas específicas."
 "Marcação: organiza e apresenta informações, sem estrutura. Programação fornece as instruções, bem detalhado."
+
+Tags são rótulos usados para indicar para o navegador como a informação deve ser apresentada.
+Tags são estruturas de linguagem de marcação HTML, contendo instruções.
+Tags marcam e indicam a função de uma informação que será exibida.
+
+
+<!DOCTYPE html> SEMPRE deve estar na primeira linha de um documento html
+O código html é um documento hierárquico, e o nodo raiz é a tag <html>. Dentro dela existirão duas tags, <head> e <body>.
+A tag <head> contém dados sobre a página que não serão exibidos na tela mas são muito importantes para o documento html, como por exemplo o seu título, seu autor, dados de indexação para mecanismos de busca, recursos de outras linguagens como CSS e JS, etc.
+A tag <body> contém o conteúdo que será efetivamente exibido pelo navegador, como textos, imagens, tabelas, vídeos, formulários, etc.
+Uma estrutura básica seria o seguinte:
+
+<!DOCTYPE html>
+<html>
+    <head> ... dados sobre a página ... </head>
+    <body> ... conteúdo ... </body>
+</html>
+
+Exemplo mais completo:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Olá, mundo!</head>
+    </head>
+    <body>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </body>
+</html>
+
+A tag <title> especifica o título da página o msemo que é exibido na barra de título ou na aba de navegador. Esta informação é obrigatóia e não deve sre repetida no documento. Informações mais detalhadas em h3schools.com/tags/tag_title.asp .
+A tag <p> define um parágrafo. Mais exemplos de uso são encontrados em w3schools.com/tags/tag_p.asp .
