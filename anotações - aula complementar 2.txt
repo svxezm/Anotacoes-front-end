@@ -1,0 +1,22 @@
+link da aula: https://www.youtube.com/live/Muj3Z7t5XAw?feature=share
+--------------------------------------------------------------------
+
+38:15 | 'Lógica de programação' é a aplicação e a execução de um passo a passo para a construção de um algoritmo.
+'Algoritmo' são passos para resolver um problema, é uma sequência lógica.
+
+39:20 | O computador não pensa, ele processa e calcula. Apenas recebe ordens.
+Programar é identificar e resolver problemas! 1. Entender o problema; 2. Focar na solução; 3. construir a solução.
+
+"Front-end é a parte visua de um site ou de uma aplicação. É aquilo que podemos interagir. Quem trabalha com Front-end é responsável por desenvolver por eio do código uma interface gráfica e, normalmente, com as tecnologias base da Web: HTML, CS e JavaScript."
+"Front-end e Web Design são diferentes. Front-end é a parte lógica de programação, Web Design é a parte visual."
+O Front-end de um site é construído basicamente com 3 tecnologias principais, são elas: HTML, CSS e JavaScript.
+
+53:18 | HTML é uma linguagem de marcação. Sua função é criar a estrutura básica de um site ou aplicativo.
+1:02:52 | "html é a estrutura principal para a construção de um site ou app, por exemplo, se fosse levantar uma casa, o html seria quem construiria as paredes"
+1:16:05 | CSS também é uma linguagem de marcação, usada para personalizar uma página criada com HTML.
+1:31:02 | "css é o layout do site para adaptar a apresentação dele para todos os dispositivos."
+
+1:33:20 | O JavaScript é uma linguagem de programação, responsável pela automoção de uma página.
+1:42:22 | "O JavaScript é utilizado para controlar o HTML e o CSS, usada para manitular comportamentos na página. O JavaScript permite implementar itens complexos em páginas web."
+1:36:50 | "O HTML é o esqueleto, o CSS é a pele e o JavaScript são os músculos."
+1:38:00 | "O JavaScript é o que vai dar interatividade à página"
