@@ -1,3 +1,6 @@
+link da aula: https://www.youtube.com/live/Cem37n9sL9E?feature=share
+--------------------------------------------------------------------
+
 Linguagem de Marcação organiza dados e informações, sem possuir estruturas de controle de processamento. Exemplos: HTML, CSS, XML,  JSON, etc.
 Linguagem de Programação é um conjunto de regras sintáticas e semânticas usadas para definir um programa de computador especifique precisamente os passos de um altorítimo. Exemplos: C, C++, Java, Python, PHP, etc.
 
