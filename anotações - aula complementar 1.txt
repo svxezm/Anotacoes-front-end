@@ -35,6 +35,9 @@ Exemplo mais completo:
 
 A tag <title> especifica o título da página o msemo que é exibido na barra de título ou na aba de navegador. Esta informação é obrigatóia e não deve sre repetida no documento. Informações mais detalhadas em h3schools.com/tags/tag_title.asp .
 A tag <p> define um parágrafo. Mais exemplos de uso são encontrados em w3schools.com/tags/tag_p.asp .
+A tag de comentário é usada para inserirmos comentários no código fonte. Comentários não sfo renderizados pelos navegadores e apenas auziliam a organização do código HTML. Ex: <!-- comentário -->
+Títulso de cabeçalhos são definidos em ordem de relevância semântica através das tags <h1> até <h6>.
+Os links são marcados com a tag <a> e o destino do link é informado através do atributo href. Através dos atributos, o link também pode ser aberto em outra aba. Ex: <a href="http://www.google.com.br">Google</a>
 
 extra:
 &lt; insere <
