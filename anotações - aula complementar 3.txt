@@ -1,7 +1,7 @@
 link da aula: https://www.youtube.com/live/oNsoyk30-fI?feature=share
 ------------------------------------------------------------------
 
-56:25 | A web 2.0 tornou a internet muito mais dinâmica e funcional
+56:25   | A web 2.0 tornou a internet muito mais dinâmica e funcional
 1:01:00 | Back-end são os sistemas que funcionam no servidor (server-side), normalmente construídos em Java, PHP, Python, etc. Front-end são sistemas que funcionam nos clientes (client-side), constituídos por HTML, CSS, entre outros como SASS, ActionScript e Ajax.
 
 1:08:05 | Os itens em uma loja virtual são organizados com front-end, enquanto as informações dos produtos e o local que cada link leva são responsáveis pelo back-end.
