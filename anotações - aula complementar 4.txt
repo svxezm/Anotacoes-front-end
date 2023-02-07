@@ -1,0 +1,24 @@
+link da aula: https://www.youtube.com/live/fLDoX0wl7js?feature=share
+--------------------------------------------------------------------
+
+29:51   |   "Haja o que hajar, não pare de codar."
+51:35   |   <figure> e <figcaption> têm a mesma função de <img> mas <img> é a mais comum
+53:20   |   toda tag de imagem deve ter o atributo src (source) para indicar a fonte da imagem
+1:05:26 |   a tag <div> tem a função de agrupar todos os elementos dentro dela
+1:25:43 |   a tag <img> possui atributos obrigatórios além do src: title para definir um nome para a imagem (aparece quando posicina o ponteiro acima da imagem) e alt para definir um texto a ser inserido caso a imagem não seja encontrada
+1:38:02 |   a tag <img> aceita src como atributo mas não url
+1:44:39 |   uma imagem pode ser usada como backgroud com o seguinte atributo: style="backgroud-image: url('')"
+1:46:45 |   listas podem ser ordenadas ou não: <ul> e <ol>, ambas possuem <li> dentro delas para inserir o conteúdo a ser listado
+            - lista desordenada:  marcadas com bullets por padrão, são usadas com a tag <ul>
+            - lista ordenada: marcadas com números por padrão, são usadas com a tag <ol>
+            - é possível criar listas alinhadas (listas dentro de listas):
+                <ul>
+                    <li>
+                        <ul>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                SE VOCÊ NÃO ESTÁ CODANDO, VOCÊ ESTÁ VACILANDO!
