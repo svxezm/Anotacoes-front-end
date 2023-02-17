@@ -1,6 +1,7 @@
 link da aula: https://www.youtube.com/live/I8OjswE1two?feature=share
 --------------------------------------------------------------------
 
+git clone [link do repositório]  -  adiciona a branch do repositório
 git status  -   indica as mudanças que ainda não foram enviadas
 git add [arquivo]   -   adiciona um arquivo para ser atualizado
 git commit -m "mensagem"    -   insere uma descrição do novo commit
