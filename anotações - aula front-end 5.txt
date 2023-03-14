@@ -1,0 +1,1 @@
+flex-wrap: flex - posiciona os elementos da página para se adaptar com as telas de menor largura
