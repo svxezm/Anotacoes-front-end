@@ -1,0 +1,7 @@
+document - usado para acessar elementos da página
+as propriedades de um objeto são suas informações e os métodos são suas ações
+let ou var - declaram uma variável (não podem ter espaços ou caracteres especiais). "a variável declarada como var pode ser acessada em todo o escopo em que foi definida, enquanto a variável declarada como let só pode ser acessada dentro do bloco em que foi definida"
+function - define uma função
+= - sinal de atribuição (armazena um valor em um espaço de memória, a variável)
+
+"para os alunos que não estão entendendo o "=" vou explicar uma coisa:o "=" é como se fosse a palavra "recebe" em pt-BRentão ficaria assim:var ="recebe" confirm('mensagem'), diferentemente do "==" que é o mesmo que o "=" da matemática.​ então como boas práticas, leiam sempre como recebem quando se tratar de let, var, function, if e else, os chamados "ordem de precedência" ou operadores."
