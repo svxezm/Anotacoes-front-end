@@ -10,6 +10,13 @@ git add nomeDoArquivo
 git commit -m "Mensagem do commit"
 git push origin main
 
+Para criar uma branch nova no projeto e se direcionar a ela:
+git branch nova/branch
+git checkout nova/branch
+
+Ou, para criar e redirecionar ao mesmo tempo:
+git checkout -b nova/branch
+
 
 Lembrete:
 git push envia as alterações para o repositório;
