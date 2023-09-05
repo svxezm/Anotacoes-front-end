@@ -1,0 +1,19 @@
+Para configurar seu usuário git, usa-se esses dois comandos para definir o nome e o email:
+git config --global user.name "Seu nome no GitHub"
+git config --global user.email seu.email@gmail.com
+
+Para clonar um repositório, usa-se:
+git clone endereço/do/repositório.git
+
+Para enviar as alterações pro GitHub, usa-se os comandos:
+git add nomeDoArquivo
+git commit -m "Mensagem do commit"
+git push origin main
+
+
+Lembrete:
+git push envia as alterações para o repositório;
+git pull recebe as alterações do repositório.
+
+Caso a branch principal seja definida como master ao criar o repositório,
+use o comando git branch -M main para renomear a branch como main
